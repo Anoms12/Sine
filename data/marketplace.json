@@ -43,6 +43,16 @@
       "zen"
     ]
   },
+  "findbar-ai-zen-browser": {
+    "homepage": "BibekBhusal0/zen-custom-js/tree/main/findbar-ai",
+    "name": "Findbar AI",
+    "version": "Beta",
+    "description": "Transforms the standard Zen Browser findbar into a modern, floating, AI-powered chat interface using Google's Gemini API. Inspired by Arc Browser.",
+    "readme": "https://raw.githubusercontent.com/BibekBhusal0/zen-custom-js/main/findbar-ai/README.md",
+    "fork": [
+      "zen"
+    ]
+  },
   "animations-plus": {
     "homepage": "Anoms12/Animations-plus",
     "image": "https://raw.githubusercontent.com/Anoms12/Animations-plus/main/image.png",
